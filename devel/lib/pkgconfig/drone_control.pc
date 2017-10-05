@@ -1,0 +1,8 @@
+prefix=/home/valentinrudloff/ros_ws/devel
+
+Name: drone_control
+Description: Description of drone_control
+Version: 0.0.0
+Cflags: -I/home/valentinrudloff/ros_ws/src/drone_control/include
+Libs: -L/home/valentinrudloff/ros_ws/devel/lib -ldrone_control
+Requires: roscpp std_msgs mavros_msgs geometry_msgs

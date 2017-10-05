@@ -1,0 +1,8 @@
+prefix=/home/valentinrudloff/ros_ws/devel
+
+Name: drone_optique
+Description: Description of drone_optique
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/valentinrudloff/ros_ws/devel/lib 
+Requires: 

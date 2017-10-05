@@ -1,0 +1,8 @@
+prefix=/home/valentinrudloff/ros_ws/install
+
+Name: smart_land
+Description: Description of smart_land
+Version: 0.0.0
+Cflags: -I/home/valentinrudloff/ros_ws/install/include
+Libs: -L/home/valentinrudloff/ros_ws/install/lib -lsmart_land
+Requires: roscpp std_msgs mavros_msgs geometry_msgs

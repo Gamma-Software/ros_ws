@@ -1,0 +1,2 @@
+drone_control:drone_optique:smart_land
+-DCATKIN_DEVEL_PREFIX=/home/valentinrudloff/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/valentinrudloff/ros_ws/install -G Unix Makefiles
